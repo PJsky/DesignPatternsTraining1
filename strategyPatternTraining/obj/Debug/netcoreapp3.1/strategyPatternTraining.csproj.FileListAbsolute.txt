@@ -1,0 +1,13 @@
+C:\Users\RAMAND\Desktop\c#\designPatternsTraining1\strategyPatternTraining\bin\Debug\netcoreapp3.1\strategyPatternTraining.exe
+C:\Users\RAMAND\Desktop\c#\designPatternsTraining1\strategyPatternTraining\bin\Debug\netcoreapp3.1\strategyPatternTraining.deps.json
+C:\Users\RAMAND\Desktop\c#\designPatternsTraining1\strategyPatternTraining\bin\Debug\netcoreapp3.1\strategyPatternTraining.runtimeconfig.json
+C:\Users\RAMAND\Desktop\c#\designPatternsTraining1\strategyPatternTraining\bin\Debug\netcoreapp3.1\strategyPatternTraining.runtimeconfig.dev.json
+C:\Users\RAMAND\Desktop\c#\designPatternsTraining1\strategyPatternTraining\bin\Debug\netcoreapp3.1\strategyPatternTraining.dll
+C:\Users\RAMAND\Desktop\c#\designPatternsTraining1\strategyPatternTraining\bin\Debug\netcoreapp3.1\strategyPatternTraining.pdb
+C:\Users\RAMAND\Desktop\c#\designPatternsTraining1\strategyPatternTraining\obj\Debug\netcoreapp3.1\strategyPatternTraining.csprojAssemblyReference.cache
+C:\Users\RAMAND\Desktop\c#\designPatternsTraining1\strategyPatternTraining\obj\Debug\netcoreapp3.1\strategyPatternTraining.AssemblyInfoInputs.cache
+C:\Users\RAMAND\Desktop\c#\designPatternsTraining1\strategyPatternTraining\obj\Debug\netcoreapp3.1\strategyPatternTraining.AssemblyInfo.cs
+C:\Users\RAMAND\Desktop\c#\designPatternsTraining1\strategyPatternTraining\obj\Debug\netcoreapp3.1\strategyPatternTraining.csproj.CoreCompileInputs.cache
+C:\Users\RAMAND\Desktop\c#\designPatternsTraining1\strategyPatternTraining\obj\Debug\netcoreapp3.1\strategyPatternTraining.dll
+C:\Users\RAMAND\Desktop\c#\designPatternsTraining1\strategyPatternTraining\obj\Debug\netcoreapp3.1\strategyPatternTraining.pdb
+C:\Users\RAMAND\Desktop\c#\designPatternsTraining1\strategyPatternTraining\obj\Debug\netcoreapp3.1\strategyPatternTraining.genruntimeconfig.cache
