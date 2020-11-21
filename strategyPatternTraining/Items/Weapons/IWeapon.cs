@@ -1,6 +1,5 @@
 public interface IWeapon
 {
-    int Damage { get; set; }
 
-    void Attack(Character enemyCharacter);
+    void Attack(ICharacter enemyCharacter);
 }

@@ -1,8 +1,9 @@
 public class Mace : IWeapon
 {
-    public int Damage { get; set; } = 25;
-    public void Attack(Character enemyCharacter){
-        enemyCharacter.Hp -=2;
-        enemyCharacter.ExecuteDefense(Damage);
+    private int damage  = 25;
+    const int maceEffectdamage = 2;
+    public void Attack(ICharacter enemyCharacter){
+        enemyCharacter.LoseHealth(maceEffectdamage);
+        enemyCharacter.ExecuteDefense(damage);
     }
 }

@@ -2,11 +2,10 @@
 
 public class Axe : IWeapon
 {
-    public int Damage { get; set; } = 20;
-    public void Attack(Character enemyCharacter)
+    private int damage = 20;
+    public void Attack(ICharacter enemyCharacter)
     {
         //Axe effect
-        System.Console.WriteLine($"Swing with axe for {Damage} damage");
-        enemyCharacter.ExecuteDefense(Damage);
+        enemyCharacter.ExecuteDefense(damage);
     }
 }
